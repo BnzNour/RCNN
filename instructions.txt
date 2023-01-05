@@ -1,6 +1,6 @@
 To mask: 
 
-python pear.py splash --weights="your\path\mask_rcnn_pear.h5" --image="your\path\samples\pear\barack.png"
+python pear.py splash --weights="your\path\mask_rcnn_pear.h5" --image="your\path\samples\pear\image.png,jpg"
 
 To train: 
 
