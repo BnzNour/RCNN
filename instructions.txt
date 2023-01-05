@@ -1,0 +1,8 @@
+To mask: 
+
+python pear.py splash --weights="your\path\mask_rcnn_pear.h5" --image="your\path\samples\pear\barack.png"
+
+To train: 
+
+python pear.py train --dataset= your/path/dataset --weights=coco
+
